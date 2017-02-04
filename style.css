@@ -1,0 +1,86 @@
+div {
+	width:500px;
+	height:650px;
+	border: solid 1px black;
+	background-color: #c3c3c3;
+	display: block;
+	margin: 10px 400px;
+	position: relative;
+	padding: 10px;
+	
+}
+
+.red {
+	color: red;
+	margin-left: 200px;
+	margin-bottom: 5px;
+}
+.blue{
+	color: blue;
+
+}
+
+.one span{
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+
+}
+
+.two .fa-star {
+	color: #84229f;
+}
+.two span{
+	color: #84229f;
+}
+
+.three .fa-star{
+	color: #524c54;
+}
+
+.three span{
+	color: #524c54;
+}
+
+
+
+img{
+	width: 130px;
+	height: 150px;
+	float: left;
+	margin-right: 10px;
+}
+.none{
+	display: none;
+}
+q {
+	border: dashed 2px red;
+	display: block;
+	color: white;
+	background-color: #292525;
+	padding: 5px;
+	margin: 5px;
+
+}
+.two p img{
+	float: right;
+	margin-left: 5px;
+}
+.two p{
+	text-align:justify;
+	margin-right: 5px;
+}
+
+.two footer{
+	text-align: center;
+}
+
+.three img{
+	margin-right: 360px;
+	margin-bottom: 5px;
+}
+
+.three p{
+	text-align: justify;
+}
+
